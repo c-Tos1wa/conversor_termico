@@ -17,7 +17,7 @@ export default function Header(){
             </Grid>
             <Grid item xs={12} sm={6}>
               <img className={styles.image} 
-                src='/images/termo.png' alt='Tirinha do Garfield'/>
+                src='./images/hot-cold.jpg' alt='Termometros de calor e frio'/>
             </Grid>
           </Grid>
         </Container>
